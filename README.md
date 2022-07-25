@@ -1,6 +1,6 @@
 # Destini
 
-An app that have the style of "Black Mirror Bandersnatch" that you different choices lead to different stories.
+An app that have the style of "Black Mirror Bandersnatch" that different choices lead to different stories.
 
 ## Getting Started
 
